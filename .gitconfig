@@ -1,0 +1,11 @@
+[user]
+	name = Naineel Soyantar
+	email = naineel.soyantar@zuru.com
+[init]
+	defaultBranch = master
+[pull]
+	rebase = true
+[core]
+	editor = code --wait
+[color]
+	ui = auto
